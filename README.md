@@ -8,4 +8,4 @@ You can also create a filter so that only words from a specific 'lektion' (1..34
 The apk is in /app/release.
 
 ## Screenshot
-![](/screenshot.png?raw=True) 
+<img width=300 src=/screenshot.png>
